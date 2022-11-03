@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align = "center">
 ![Animtad gif](https://github.com/JuanGdev/JuanGdev/blob/master/test.gif?raw=true)
+</p>
