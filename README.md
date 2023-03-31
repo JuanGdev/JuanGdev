@@ -1,7 +1,7 @@
 ### Helloooooo! 🐝💛
-- 🕹 I’m currently learning UE4 for videogame.
+- 🕹 I’m currently learning Unreal Engine and Unity for video games programming.
 - Computer Systems student
-- <a href="https://beedevelopers.dev/">BeeDevelopers Secretary</a>
+- <a href="https://beedevelopers.dev/">BeeDevelopers President</a>
 ### Social
 [![Twitter: juangdev](https://img.shields.io/twitter/follow/juangdev?style=?style=flat-square&logo=twitter)](https://twitter.com/juangdev)
 [![Linkedin: JuanAguileraHuerta](https://img.shields.io/badge/-JuanAguileraHuerta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/juan-aguilera-gdev/)](www.linkedin.com/in/juan-aguilera-gdev
