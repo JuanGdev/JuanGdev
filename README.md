@@ -27,9 +27,5 @@
 )
 [![GitHub JuanGdev](https://img.shields.io/github/followers/JuanGdev?label=follow&style=social)](https://github.com/JuanGdev)
 
-<p align = "center">
-<img src = https://user-images.githubusercontent.com/73394216/199809778-e74264e3-a7b7-4304-b008-a6fbd16a3290.png>
-</p>
-
 
 
