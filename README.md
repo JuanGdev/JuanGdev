@@ -1,7 +1,7 @@
 ![@JuanGdev cover image](https://media.licdn.com/dms/image/D5616AQGoVUwJ40La3g/profile-displaybackgroundimage-shrink_350_1400/0/1707619484643?e=1715212800&v=beta&t=Glhgu58caL1zKwpLEWD1idgasyzeegWuZtdDHBi5a3Q)
 
 
-# Hi hi! :strawberry: :octocat: 
+# Hi, I'm Juan Aguilera! :strawberry: :octocat: 
 
 <img align='right' src="./assets/gifs/me.gif" width="230">
 
@@ -17,7 +17,7 @@
 
 - **GitHub Campus Expert at <a href="https://githubcampus.expert/">GitHub Education</a><img src="https://media.giphy.com/media/jTNaPTjk7mOIj4F5kj/giphy.gif" width="30"></em></p>**
 
-I am Juan Aguilera Huerta, **a student passionate about the world of video games and dedicated to programming**, with a particular focus on developing gameplay, mechanics, interface and user experience using platforms such as Unity and Unreal Engine. I am constantly working on my technical skills, especially programming logic, algorithms and data structures.
+I am **a student passionate about the world of video games and dedicated to programming**, with a particular focus on developing gameplay, mechanics, interface and user experience using platforms such as Unity and Unreal Engine. I am constantly working on my technical skills, especially programming logic, algorithms and data structures.
 
 My goal is to **drive collaboration in multidisciplinary teams, fostering inclusive environments for collective growth**. Contribute meaningfully to inspiring projects, constantly challenging the boundaries of innovation.:triangular_flag_on_post:
 
