@@ -19,7 +19,7 @@
 
 I am **a student passionate about the world of video games and dedicated to programming**, with a particular focus on developing gameplay, mechanics, interface and user experience using platforms such as Unity and Unreal Engine. I am constantly working on my technical skills, especially programming logic, algorithms and data structures.
 
-My goal is to **drive collaboration in multidisciplinary teams, fostering inclusive environments for collective growth**. Contribute meaningfully to inspiring projects, constantly challenging the boundaries of innovation.:triangular_flag_on_post:
+My goal is to **drive collaboration in multidisciplinary teams, fostering inclusive environments for collective growth**. Contribute meaningfully to inspiring projects, constantly challenging the boundaries of innovation. :triangular_flag_on_post:
 
 Learn from others and share my knowledge always in an effective and respectful way!
 
