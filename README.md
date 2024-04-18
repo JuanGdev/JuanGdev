@@ -1,7 +1,7 @@
 ![@JuanGdev cover image](https://media.licdn.com/dms/image/D5616AQGoVUwJ40La3g/profile-displaybackgroundimage-shrink_350_1400/0/1707619484643?e=1715212800&v=beta&t=Glhgu58caL1zKwpLEWD1idgasyzeegWuZtdDHBi5a3Q)
 
 
-# Hi, I'm Juan Aguilera! :strawberry: :octocat: 
+# Hiiiiii! :strawberry: :octocat: 
 
 <img align='right' src="./assets/gifs/me.gif" width="230">
 
