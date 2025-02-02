@@ -1,5 +1,4 @@
-![@JuanGdev cover image](https://i.imgur.com/CKPmm5o.jpeg)
-
+<img src="https://i.imgur.com/tKSB1XP.jpeg">
 
 # Hiiiiii! :strawberry: :octocat: 
 
